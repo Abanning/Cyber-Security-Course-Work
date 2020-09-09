@@ -1,0 +1,5 @@
+Loaded 8544 password hashes with no different salts (Raw-SHA1 [SHA1 256/256 AVX2 8x])
+Alexis           (lawilliams)
+word             (matt.johnson)
+shoes            (mdavid)
+Denise           (khans)

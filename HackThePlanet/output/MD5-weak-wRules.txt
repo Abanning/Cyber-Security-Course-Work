@@ -1,0 +1,6 @@
+Loaded 3413 password hashes with no different salts (Raw-MD5 [MD5 256/256 AVX2 8x3])
+Miller           (kim.harris)
+fountains        (hlopez)
+confused         (reddych)
+one              (gajohnston)
+Vernon           (raybe)

@@ -1,0 +1,2 @@
+Loaded 500 password hashes with 500 different salts (sha512crypt, crypt(3) $6$ [SHA512 256/256 AVX2 4x])
+Cost 1 (iteration count) is 5000 for all loaded hashes
